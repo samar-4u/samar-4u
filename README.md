@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @samar-4u
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning javascript
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i can speak in more than 3 languages 😋
